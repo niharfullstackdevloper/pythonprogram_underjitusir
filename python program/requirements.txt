@@ -1,0 +1,12 @@
+asgiref
+Django==3.1.7
+djangorestframework
+numpy
+opencv-contrib-python
+opencv-python
+Pillow
+pytz
+pywin32
+sqlparse
+legacy-cgi
+--upgrade setuptools
